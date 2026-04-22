@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43C16B01-B8F0-3B36-CEF8-2A603C75D633}|CubeProject_IT23160248\\CubeProject_IT23160248.dwproj|C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\CubeProject_IT23160248\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{43C16B01-B8F0-3B36-CEF8-2A603C75D633}|CubeProject_IT23160248\\CubeProject_IT23160248.dwproj|solutionrelative:CubeProject_IT23160248\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C16B01-B8F0-3B36-CEF8-2A603C75D633}|CubeProject_IT23160248\\CubeProject_IT23160248.dwproj|C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\CubeProject_IT23160248\\DATACO DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{43C16B01-B8F0-3B36-CEF8-2A603C75D633}|CubeProject_IT23160248\\CubeProject_IT23160248.dwproj|solutionrelative:CubeProject_IT23160248\\DATACO DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C16B01-B8F0-3B36-CEF8-2A603C75D633}|CubeProject_IT23160248\\CubeProject_IT23160248.dwproj|C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\CubeProject_IT23160248\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{43C16B01-B8F0-3B36-CEF8-2A603C75D633}|CubeProject_IT23160248\\CubeProject_IT23160248.dwproj|solutionrelative:CubeProject_IT23160248\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C16B01-B8F0-3B36-CEF8-2A603C75D633}|CubeProject_IT23160248\\CubeProject_IT23160248.dwproj|C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\CubeProject_IT23160248\\DATACO DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{43C16B01-B8F0-3B36-CEF8-2A603C75D633}|CubeProject_IT23160248\\CubeProject_IT23160248.dwproj|solutionrelative:CubeProject_IT23160248\\DATACO DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C16B01-B8F0-3B36-CEF8-2A603C75D633}|CubeProject_IT23160248\\CubeProject_IT23160248.dwproj|C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\CubeProject_IT23160248\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{43C16B01-B8F0-3B36-CEF8-2A603C75D633}|CubeProject_IT23160248\\CubeProject_IT23160248.dwproj|solutionrelative:CubeProject_IT23160248\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Product.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\CubeProject_IT23160248\\Dim Product.dim",
+              "RelativeDocumentMoniker": "CubeProject_IT23160248\\Dim Product.dim",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\CubeProject_IT23160248\\Dim Product.dim [Design]",
+              "RelativeToolTip": "CubeProject_IT23160248\\Dim Product.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T05:31:22.112Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DATACO DW.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\CubeProject_IT23160248\\DATACO DW.cube",
+              "RelativeDocumentMoniker": "CubeProject_IT23160248\\DATACO DW.cube",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\CubeProject_IT23160248\\DATACO DW.cube [Design]",
+              "RelativeToolTip": "CubeProject_IT23160248\\DATACO DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T05:30:08.528Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DATACO DW.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\CubeProject_IT23160248\\DATACO DW.dsv",
+              "RelativeDocumentMoniker": "CubeProject_IT23160248\\DATACO DW.dsv",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\CubeProject_IT23160248\\DATACO DW.dsv [Design]",
+              "RelativeToolTip": "CubeProject_IT23160248\\DATACO DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T05:25:23.905Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\CubeProject_IT23160248\\Dim Date.dim",
+              "RelativeDocumentMoniker": "CubeProject_IT23160248\\Dim Date.dim",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\CubeProject_IT23160248\\Dim Date.dim [Design]",
+              "RelativeToolTip": "CubeProject_IT23160248\\Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T15:51:49.664Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\CubeProject_IT23160248\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "CubeProject_IT23160248\\Dim Customer.dim",
+              "ToolTip": "C:\\Users\\CHAMA COMPUTERS\\Desktop\\SLIIT_Y3_S2\\DWBI\\Assignment\\project\\Data-Warehouse-Project---DataCo-SMART-SUPPLY-CHAIN\\SSAS\\CubeProject_IT23160248\\CubeProject_IT23160248\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "CubeProject_IT23160248\\Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T05:34:41.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
